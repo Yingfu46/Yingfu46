@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yingfu46
-- 👀 I’m interested in data analysis, in particular time series analys.
-- 🌱 I’m currently learning Python and Machine Learning.
+- 👀 I’m interested in data analysis and machine learning, in particular time series analys.
+- 🌱 I’m studying and working with Python and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: xieyingfu@yahoo.com
 
