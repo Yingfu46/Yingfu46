@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yingfu46
 - 👀 I’m interested in data analysis and machine learning, in particular in a time series perspective.
 - 🌱 I’m studying and working with Python and Machine Learning.
-- 💞️ I’m looking to collaborate with you.
+- 💞️ I’m looking to collaborate with you. I am in Kaggle: https://www.kaggle.com/yingfu46
 - 📫 How to reach me: xieyingfu@yahoo.com
 
 <!---
